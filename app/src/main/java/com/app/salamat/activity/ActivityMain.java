@@ -31,8 +31,8 @@ public class ActivityMain extends AppCompatActivity {
     }
 
     private void initComponent() {
-        this.dis = this;
         recyclerView = findViewById(R.id.recyclerView);
+        this.dis = this;
         recyclerView.setLayoutManager(new GridLayoutManager(dis,1));
         initRecyclerView();
 
