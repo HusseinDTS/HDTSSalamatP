@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3ACC10</color>
+    <color name="colorPrimaryDark">#745E0D</color>
+    <color name="colorPrimaryLight">#1BC0DD</color>
+
+    <color name="hamrahpay_background">#FFFFFF</color>
+    <color name="buttonInfo">#AFB42B</color>
+    <color name="buttonSuccess">#5cb85c</color>
+    <color name="green">#219c21</color>
+    <color name="toolbar_primary_color">#f01769</color>
+
+    <color name="selected_color">#6F8AA8FF</color>
+
+
+    <color name="finestWhite10">#1AFFFFFF</color>
+    <color name="finestWhite20">#33FFFFFF</color>
+    <color name="finestWhite30">#4DFFFFFF</color>
+
+    <color name="finestGray10">#1AD2D2D2</color>
+    <color name="finestGray20">#33D2D2D2</color>
+
+    <color name="finestBlack05">#0D202020</color>
+    <color name="finestBlack10">#1A202020</color>
+    <color name="finestBlack20">#33202020</color>
+    <color name="finestBlack30">#4D202020</color>
+    <color name="finestBlack40">#66202020</color>
+
+    <color name="finestWhite">#FFFFFF</color>
+    <color name="finestBlack">#000000</color>
+    <color name="finestSilver">#A5A5A5</color>
+    <color name="finestGray">#E7E7E7</color>
+    <color name="chromeGray">#f1f0f0</color>
+    <color name="devider">#e1e0e0</color>
+
+    <color name="colorPrimaryGreen">#2EB81A</color>
+
+    <color name="colorAccent">#FF6161</color>
+    <color name="colorAccentDark">#A52C26</color>
+    <color name="colorAccentLight">#FF3628</color>
+
+    <color name="colorText1">#00BCD4</color>
+    <color name="colorText2">#3F51B5</color>
+    <color name="colorText3">#673AB7</color>
+    <color name="colorText4">#9C27B0</color>
+
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#263238</color>
+
+
+    <color name="colorPrice">#429E45</color>
+    <color name="colorAddCart">#FFB300</color>
+    <color name="colorRemoveCart">#666666</color>
+
+    <color name="colorWarning">#FF7043</color>
+    <color name="colorInfo">#5DBA60</color>
+
+    <color name="darkOverlay">#80000000</color>
+    <color name="darkOverlaySoft">#40000000</color>
+    <color name="whiteOverlay">#40FFFFFF</color>
+
+    <color name="drawerHeaderColor">#FFED87</color>
+    <color name="drawerHeaderIcon">#666666</color>
+    <color name="colorTextProduct">#8A171717</color>
+
+</resources>
